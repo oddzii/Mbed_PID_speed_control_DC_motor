@@ -8,7 +8,7 @@ You can download this from the Github repository in each directory.
 
 A program that controls motor speed using PID. 
 
-This program requires set point, motor direction , travel distance. You can input by
+This program requires set point, motor direction , travel distance. You can set by
 using keystroke through the terminal.
 
 # System Components
