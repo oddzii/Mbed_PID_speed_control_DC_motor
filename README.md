@@ -1,8 +1,8 @@
 # PID_speed_control_DC_motor
 
 the following project is required 
-  Motor.h library.
-  PID.h library.
+  Motor.h 
+  PID.h 
   QEI.h library.
 
 You can download this from the Github repository in each directory.
