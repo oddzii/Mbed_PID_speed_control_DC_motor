@@ -1,4 +1,4 @@
-# PID_speed_control_DC_motor
+# Mbed_PID_speed_control_DC_motor
 
 the following project is required  Motor.h ,  PID.h ,  QEI.h library
 
