@@ -18,4 +18,4 @@ using keystroke through the terminal.
 6. 12v Dc battery
 
 # Connecting
-![speed_control_bb](https://user-images.githubusercontent.com/68624655/110619651-a1a11f00-81ca-11eb-8063-3216459cc73d.png)
+![speed_control_bb](https://user-images.githubusercontent.com/68624655/112920219-b706ca80-9132-11eb-9ad2-86cde35ad35f.jpg)
